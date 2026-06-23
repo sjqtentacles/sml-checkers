@@ -1,0 +1,9 @@
+(* Source files for the sml-checkers library. *)
+
+$(SML_LIB)/basis/basis.mlb
+
+../sml-gametree/gametree.sig
+../sml-gametree/gametree.sml
+
+checkers.sig
+checkers.sml
